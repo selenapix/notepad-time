@@ -9,3 +9,5 @@ Once the user selects "Get Started", they will be directed to a new page, in whi
 
 ## Screenshots 
 
+![Screenshot 2024-08-08 at 1 44 01 PM](https://github.com/user-attachments/assets/445947a2-1fc0-46b4-9172-3b1edf142a9a)
+
